@@ -1,8 +1,12 @@
-albumName: FAWM 20XX
+albumName: Zero-Sum Game
 songs:
-  - title: Song Title 01
-    mp3Filename: song-title-01
-    notes: "Song notes 01"
-  - title: Song Title 02
-    mp3Filename: song-title-02
-    notes: "Song notes 02"
+  - title: F**k Off To Mars (NSFW)
+    mp3Filename: ab-f@@k-off-to-mars
+    notes: |
+      This could be a song about anybody. Read into it what you will.
+  - title: The Benevolent Dictator
+    mp3Filename: ab-benevolent-dictator
+    notes: |
+      I thought that the idea of preferring a dictator to democracy was an idea only put forward by tech bros, but apparently not.
+      Apparently 20% of Britons would prefer a dictator to democracy, according to a YouGov poll:
+      <a href="https://www.theguardian.com/politics/2025/jan/12/one-in-five-britons-aged-18-45-prefer-unelected-leaders-to-democracy-poll-finds">The Guardian - One in five Britons aged 18-45 prefer unelected leaders to democracy, poll finds</a>
