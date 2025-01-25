@@ -139,6 +139,36 @@ Sadly, this is not a dystopian idea I made up. It's a real thing that's been pro
         </div>
     </div>
   
+    <div class="song-item mt-4">
+        <h3>(I Am) The Feed</h3>
+
+        <audio controls>
+            <source src="mp3s/ab-the-feed.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="mt-2">
+            <a href="mp3s/ab-the-feed.mp3" class="btn btn-primary btn-sm" download>Download MP3</a>
+            <button class="btn btn-info btn-sm toggle-btn" type="button" data-bs-toggle="collapse"
+                data-bs-target="#notes4">Notes</button>
+            <button class="btn btn-secondary btn-sm toggle-btn" type="button" data-bs-toggle="collapse"
+                data-bs-target="#lyrics4" onclick="loadLyrics('ab-the-feed')">Lyrics</button>
+        </div>
+
+        <div class="collapse mt-3" id="notes4">
+            <div class="card card-body">
+                Are we the dog wagging the tail, or are we the tail being wagged by the dog? And where is the dog going?
+
+            </div>
+        </div>
+
+        <div class="collapse mt-3" id="lyrics4">
+            <div class="card card-body" id="ab-the-feed-lyrics">
+                <!-- Lyrics will be loaded here -->
+            </div>
+        </div>
+    </div>
+  
 
         <footer class="mt-5">
             <p>All material is copyrighted to Andy Balham</p>
